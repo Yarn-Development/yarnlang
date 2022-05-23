@@ -1,5 +1,7 @@
-# YarnLang
-Please note that this Language is in Early Production, and so is highly unstable.
+# YarnLang - A Lightweight Language, without compromise.
+
+*Please note that this Language is in Early Production, and so is highly unstable.*
+
 ## Installation
 ### Windows
 
